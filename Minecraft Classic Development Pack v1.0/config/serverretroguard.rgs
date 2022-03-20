@@ -100,269 +100,269 @@
 !method com/mojang/minecraft/level/tile/Tile$SoundType/getPitch ()F
 .method_map com/mojang/minecraft/level/tile/Tile$SoundType/getPitch ()F getPitch
 
-# com/mojang/minecraft/level/tile/a
-!field com/mojang/minecraft/level/tile/a/a *
-.field_map com/mojang/minecraft/level/tile/a/a a
-!field com/mojang/minecraft/level/tile/a/b *
-.field_map com/mojang/minecraft/level/tile/a/b b
-!field com/mojang/minecraft/level/tile/a/c *
-.field_map com/mojang/minecraft/level/tile/a/c c
-!field com/mojang/minecraft/level/tile/a/ad *
-.field_map com/mojang/minecraft/level/tile/a/ad ad
-!field com/mojang/minecraft/level/tile/a/ae *
-.field_map com/mojang/minecraft/level/tile/a/ae ae
-!field com/mojang/minecraft/level/tile/a/d *
-.field_map com/mojang/minecraft/level/tile/a/d d
-!field com/mojang/minecraft/level/tile/a/af *
-.field_map com/mojang/minecraft/level/tile/a/af af
-!field com/mojang/minecraft/level/tile/a/e *
-.field_map com/mojang/minecraft/level/tile/a/e e
-!field com/mojang/minecraft/level/tile/a/f *
-.field_map com/mojang/minecraft/level/tile/a/f f
-!field com/mojang/minecraft/level/tile/a/g *
-.field_map com/mojang/minecraft/level/tile/a/g g
-!field com/mojang/minecraft/level/tile/a/h *
-.field_map com/mojang/minecraft/level/tile/a/h h
-!field com/mojang/minecraft/level/tile/a/i *
-.field_map com/mojang/minecraft/level/tile/a/i i
-!field com/mojang/minecraft/level/tile/a/j *
-.field_map com/mojang/minecraft/level/tile/a/j j
-!field com/mojang/minecraft/level/tile/a/k *
-.field_map com/mojang/minecraft/level/tile/a/k k
-!field com/mojang/minecraft/level/tile/a/l *
-.field_map com/mojang/minecraft/level/tile/a/l l
-!field com/mojang/minecraft/level/tile/a/m *
-.field_map com/mojang/minecraft/level/tile/a/m m
-!field com/mojang/minecraft/level/tile/a/n *
-.field_map com/mojang/minecraft/level/tile/a/n n
-!field com/mojang/minecraft/level/tile/a/o *
-.field_map com/mojang/minecraft/level/tile/a/o o
-!field com/mojang/minecraft/level/tile/a/p *
-.field_map com/mojang/minecraft/level/tile/a/p p
-!field com/mojang/minecraft/level/tile/a/q *
-.field_map com/mojang/minecraft/level/tile/a/q q
-!field com/mojang/minecraft/level/tile/a/r *
-.field_map com/mojang/minecraft/level/tile/a/r r
-!field com/mojang/minecraft/level/tile/a/s *
-.field_map com/mojang/minecraft/level/tile/a/s s
-!field com/mojang/minecraft/level/tile/a/t *
-.field_map com/mojang/minecraft/level/tile/a/t t
-!field com/mojang/minecraft/level/tile/a/u *
-.field_map com/mojang/minecraft/level/tile/a/u u
-!field com/mojang/minecraft/level/tile/a/v *
-.field_map com/mojang/minecraft/level/tile/a/v v
-!field com/mojang/minecraft/level/tile/a/w *
-.field_map com/mojang/minecraft/level/tile/a/w w
-!field com/mojang/minecraft/level/tile/a/x *
-.field_map com/mojang/minecraft/level/tile/a/x x
-!field com/mojang/minecraft/level/tile/a/y *
-.field_map com/mojang/minecraft/level/tile/a/y y
-!field com/mojang/minecraft/level/tile/a/z *
-.field_map com/mojang/minecraft/level/tile/a/z z
-!field com/mojang/minecraft/level/tile/a/A *
-.field_map com/mojang/minecraft/level/tile/a/A A
-!field com/mojang/minecraft/level/tile/a/B *
-.field_map com/mojang/minecraft/level/tile/a/B B
-!field com/mojang/minecraft/level/tile/a/C *
-.field_map com/mojang/minecraft/level/tile/a/C C
-!field com/mojang/minecraft/level/tile/a/D *
-.field_map com/mojang/minecraft/level/tile/a/D D
-!field com/mojang/minecraft/level/tile/a/E *
-.field_map com/mojang/minecraft/level/tile/a/E E
-!field com/mojang/minecraft/level/tile/a/F *
-.field_map com/mojang/minecraft/level/tile/a/F F
-!field com/mojang/minecraft/level/tile/a/G *
-.field_map com/mojang/minecraft/level/tile/a/G G
-!field com/mojang/minecraft/level/tile/a/H *
-.field_map com/mojang/minecraft/level/tile/a/H H
-!field com/mojang/minecraft/level/tile/a/I *
-.field_map com/mojang/minecraft/level/tile/a/I I
-!field com/mojang/minecraft/level/tile/a/J *
-.field_map com/mojang/minecraft/level/tile/a/J J
-!field com/mojang/minecraft/level/tile/a/K *
-.field_map com/mojang/minecraft/level/tile/a/K K
-!field com/mojang/minecraft/level/tile/a/L *
-.field_map com/mojang/minecraft/level/tile/a/L L
-!field com/mojang/minecraft/level/tile/a/M *
-.field_map com/mojang/minecraft/level/tile/a/M M
-!field com/mojang/minecraft/level/tile/a/N *
-.field_map com/mojang/minecraft/level/tile/a/N N
-!field com/mojang/minecraft/level/tile/a/O *
-.field_map com/mojang/minecraft/level/tile/a/O O
-!field com/mojang/minecraft/level/tile/a/P *
-.field_map com/mojang/minecraft/level/tile/a/P P
-!field com/mojang/minecraft/level/tile/a/Q *
-.field_map com/mojang/minecraft/level/tile/a/Q Q
-!field com/mojang/minecraft/level/tile/a/R *
-.field_map com/mojang/minecraft/level/tile/a/R R
-!field com/mojang/minecraft/level/tile/a/S *
-.field_map com/mojang/minecraft/level/tile/a/S S
-!field com/mojang/minecraft/level/tile/a/T *
-.field_map com/mojang/minecraft/level/tile/a/T T
-!field com/mojang/minecraft/level/tile/a/U *
-.field_map com/mojang/minecraft/level/tile/a/U U
-!field com/mojang/minecraft/level/tile/a/V *
-.field_map com/mojang/minecraft/level/tile/a/V V
-!field com/mojang/minecraft/level/tile/a/W *
-.field_map com/mojang/minecraft/level/tile/a/W W
-!field com/mojang/minecraft/level/tile/a/X *
-.field_map com/mojang/minecraft/level/tile/a/X X
-!field com/mojang/minecraft/level/tile/a/Y *
-.field_map com/mojang/minecraft/level/tile/a/Y Y
-!field com/mojang/minecraft/level/tile/a/Z *
-.field_map com/mojang/minecraft/level/tile/a/Z Z
-!field com/mojang/minecraft/level/tile/a/aa *
-.field_map com/mojang/minecraft/level/tile/a/aa aa
-!field com/mojang/minecraft/level/tile/a/ab *
-.field_map com/mojang/minecraft/level/tile/a/ab ab
-!field com/mojang/minecraft/level/tile/a/ac *
-.field_map com/mojang/minecraft/level/tile/a/ac ac
-!field com/mojang/minecraft/level/tile/a/ag *
-.field_map com/mojang/minecraft/level/tile/a/ag ag
-!field com/mojang/minecraft/level/tile/a/ah *
-.field_map com/mojang/minecraft/level/tile/a/ah ah
-!field com/mojang/minecraft/level/tile/a/ai *
-.field_map com/mojang/minecraft/level/tile/a/ai ai
-!field com/mojang/minecraft/level/tile/a/aj *
-.field_map com/mojang/minecraft/level/tile/a/aj aj
-!field com/mojang/minecraft/level/tile/a/ak *
-.field_map com/mojang/minecraft/level/tile/a/ak ak
-!field com/mojang/minecraft/level/tile/a/al *
-.field_map com/mojang/minecraft/level/tile/a/al al
-!field com/mojang/minecraft/level/tile/a/am *
-.field_map com/mojang/minecraft/level/tile/a/am am
+# com/mojang/minecraft/level/tile/Block
+!field com/mojang/minecraft/level/tile/Block/a *
+.field_map com/mojang/minecraft/level/tile/Block/a random
+!field com/mojang/minecraft/level/tile/Block/b *
+.field_map com/mojang/minecraft/level/tile/Block/b blocks
+!field com/mojang/minecraft/level/tile/Block/c *
+.field_map com/mojang/minecraft/level/tile/Block/c physics
+!field com/mojang/minecraft/level/tile/Block/ad *
+.field_map com/mojang/minecraft/level/tile/Block/ad opaque
+!field com/mojang/minecraft/level/tile/Block/ae *
+.field_map com/mojang/minecraft/level/tile/Block/ae cube
+!field com/mojang/minecraft/level/tile/Block/d *
+.field_map com/mojang/minecraft/level/tile/Block/d liquid
+!field com/mojang/minecraft/level/tile/Block/af *
+.field_map com/mojang/minecraft/level/tile/Block/af tickDelay
+!field com/mojang/minecraft/level/tile/Block/e *
+.field_map com/mojang/minecraft/level/tile/Block/e STONE
+!field com/mojang/minecraft/level/tile/Block/f *
+.field_map com/mojang/minecraft/level/tile/Block/f GRASS
+!field com/mojang/minecraft/level/tile/Block/g *
+.field_map com/mojang/minecraft/level/tile/Block/g DIRT
+!field com/mojang/minecraft/level/tile/Block/h *
+.field_map com/mojang/minecraft/level/tile/Block/h COBBLESTONE
+!field com/mojang/minecraft/level/tile/Block/i *
+.field_map com/mojang/minecraft/level/tile/Block/i WOOD
+!field com/mojang/minecraft/level/tile/Block/j *
+.field_map com/mojang/minecraft/level/tile/Block/j SAPLING
+!field com/mojang/minecraft/level/tile/Block/k *
+.field_map com/mojang/minecraft/level/tile/Block/k BEDROCK
+!field com/mojang/minecraft/level/tile/Block/l *
+.field_map com/mojang/minecraft/level/tile/Block/l WATER
+!field com/mojang/minecraft/level/tile/Block/m *
+.field_map com/mojang/minecraft/level/tile/Block/m STATIONARY_WATER
+!field com/mojang/minecraft/level/tile/Block/n *
+.field_map com/mojang/minecraft/level/tile/Block/n LAVA
+!field com/mojang/minecraft/level/tile/Block/o *
+.field_map com/mojang/minecraft/level/tile/Block/o STATIONARY_LAVA
+!field com/mojang/minecraft/level/tile/Block/p *
+.field_map com/mojang/minecraft/level/tile/Block/p SAND
+!field com/mojang/minecraft/level/tile/Block/q *
+.field_map com/mojang/minecraft/level/tile/Block/q GRAVEL
+!field com/mojang/minecraft/level/tile/Block/r *
+.field_map com/mojang/minecraft/level/tile/Block/r GOLD_ORE
+!field com/mojang/minecraft/level/tile/Block/s *
+.field_map com/mojang/minecraft/level/tile/Block/s IRON_ORE
+!field com/mojang/minecraft/level/tile/Block/t *
+.field_map com/mojang/minecraft/level/tile/Block/t COAL_ORE
+!field com/mojang/minecraft/level/tile/Block/u *
+.field_map com/mojang/minecraft/level/tile/Block/u LOG
+!field com/mojang/minecraft/level/tile/Block/v *
+.field_map com/mojang/minecraft/level/tile/Block/v LEAVES
+!field com/mojang/minecraft/level/tile/Block/w *
+.field_map com/mojang/minecraft/level/tile/Block/w SPONGE
+!field com/mojang/minecraft/level/tile/Block/x *
+.field_map com/mojang/minecraft/level/tile/Block/x GLASS
+!field com/mojang/minecraft/level/tile/Block/y *
+.field_map com/mojang/minecraft/level/tile/Block/y RED_WOOL
+!field com/mojang/minecraft/level/tile/Block/z *
+.field_map com/mojang/minecraft/level/tile/Block/z ORANGE_WOOL
+!field com/mojang/minecraft/level/tile/Block/A *
+.field_map com/mojang/minecraft/level/tile/Block/A YELLOW_WOOL
+!field com/mojang/minecraft/level/tile/Block/B *
+.field_map com/mojang/minecraft/level/tile/Block/B LIME_WOOL
+!field com/mojang/minecraft/level/tile/Block/C *
+.field_map com/mojang/minecraft/level/tile/Block/C GREEN_WOOL
+!field com/mojang/minecraft/level/tile/Block/D *
+.field_map com/mojang/minecraft/level/tile/Block/D AQUA_GREEN_WOOL
+!field com/mojang/minecraft/level/tile/Block/E *
+.field_map com/mojang/minecraft/level/tile/Block/E CYAN_WOOL
+!field com/mojang/minecraft/level/tile/Block/F *
+.field_map com/mojang/minecraft/level/tile/Block/F BLUE_WOOL
+!field com/mojang/minecraft/level/tile/Block/G *
+.field_map com/mojang/minecraft/level/tile/Block/G PURPLE_WOOL
+!field com/mojang/minecraft/level/tile/Block/H *
+.field_map com/mojang/minecraft/level/tile/Block/H INDIGO_WOOL
+!field com/mojang/minecraft/level/tile/Block/I *
+.field_map com/mojang/minecraft/level/tile/Block/I VIOLET_WOOL
+!field com/mojang/minecraft/level/tile/Block/J *
+.field_map com/mojang/minecraft/level/tile/Block/J MAGENTA_WOOL
+!field com/mojang/minecraft/level/tile/Block/K *
+.field_map com/mojang/minecraft/level/tile/Block/K PINK_WOOL
+!field com/mojang/minecraft/level/tile/Block/L *
+.field_map com/mojang/minecraft/level/tile/Block/L BLACK_WOOL
+!field com/mojang/minecraft/level/tile/Block/M *
+.field_map com/mojang/minecraft/level/tile/Block/M GRAY_WOOL
+!field com/mojang/minecraft/level/tile/Block/N *
+.field_map com/mojang/minecraft/level/tile/Block/N WHITE_WOOL
+!field com/mojang/minecraft/level/tile/Block/O *
+.field_map com/mojang/minecraft/level/tile/Block/O DANDELION
+!field com/mojang/minecraft/level/tile/Block/P *
+.field_map com/mojang/minecraft/level/tile/Block/P ROSE
+!field com/mojang/minecraft/level/tile/Block/Q *
+.field_map com/mojang/minecraft/level/tile/Block/Q BROWN_MUSHROOM
+!field com/mojang/minecraft/level/tile/Block/R *
+.field_map com/mojang/minecraft/level/tile/Block/R RED_MUSHROOM
+!field com/mojang/minecraft/level/tile/Block/S *
+.field_map com/mojang/minecraft/level/tile/Block/S GOLD_BLOCK
+!field com/mojang/minecraft/level/tile/Block/T *
+.field_map com/mojang/minecraft/level/tile/Block/T IRON_BLOCK
+!field com/mojang/minecraft/level/tile/Block/U *
+.field_map com/mojang/minecraft/level/tile/Block/U DOUBLE_SLAB
+!field com/mojang/minecraft/level/tile/Block/V *
+.field_map com/mojang/minecraft/level/tile/Block/V SLAB
+!field com/mojang/minecraft/level/tile/Block/W *
+.field_map com/mojang/minecraft/level/tile/Block/W BRICK
+!field com/mojang/minecraft/level/tile/Block/X *
+.field_map com/mojang/minecraft/level/tile/Block/X TNT
+!field com/mojang/minecraft/level/tile/Block/Y *
+.field_map com/mojang/minecraft/level/tile/Block/Y BOOKSHELF
+!field com/mojang/minecraft/level/tile/Block/Z *
+.field_map com/mojang/minecraft/level/tile/Block/Z MOSSY_COBBLESTONE
+!field com/mojang/minecraft/level/tile/Block/aa *
+.field_map com/mojang/minecraft/level/tile/Block/aa OBSIDIAN
+!field com/mojang/minecraft/level/tile/Block/ab *
+.field_map com/mojang/minecraft/level/tile/Block/ab id
+!field com/mojang/minecraft/level/tile/Block/ac *
+.field_map com/mojang/minecraft/level/tile/Block/ac stepsound
+!field com/mojang/minecraft/level/tile/Block/ag *
+.field_map com/mojang/minecraft/level/tile/Block/ag explodes
+!field com/mojang/minecraft/level/tile/Block/ah *
+.field_map com/mojang/minecraft/level/tile/Block/ah x1
+!field com/mojang/minecraft/level/tile/Block/ai *
+.field_map com/mojang/minecraft/level/tile/Block/ai y1
+!field com/mojang/minecraft/level/tile/Block/aj *
+.field_map com/mojang/minecraft/level/tile/Block/aj z1
+!field com/mojang/minecraft/level/tile/Block/ak *
+.field_map com/mojang/minecraft/level/tile/Block/ak x2
+!field com/mojang/minecraft/level/tile/Block/al *
+.field_map com/mojang/minecraft/level/tile/Block/al y2
+!field com/mojang/minecraft/level/tile/Block/am *
+.field_map com/mojang/minecraft/level/tile/Block/am z2
 
-!method com/mojang/minecraft/level/tile/a/a ()Z
-.method_map com/mojang/minecraft/level/tile/a/a ()Z a
-!method com/mojang/minecraft/level/tile/a/a (Z)V
-.method_map com/mojang/minecraft/level/tile/a/a (Z)V a
-!method com/mojang/minecraft/level/tile/a/a (FFFFFF)V
-.method_map com/mojang/minecraft/level/tile/a/a (FFFFFF)V a
-!method com/mojang/minecraft/level/tile/a/a (I)V
-.method_map com/mojang/minecraft/level/tile/a/a (I)V a
-!method com/mojang/minecraft/level/tile/a/a (III)Lcom/mojang/minecraft/phys/AABB;
-.method_map com/mojang/minecraft/level/tile/a/a (III)Lcom/mojang/minecraft/phys/AABB; a
-!method com/mojang/minecraft/level/tile/a/b ()Z
-.method_map com/mojang/minecraft/level/tile/a/b ()Z b
-!method com/mojang/minecraft/level/tile/a/c ()Z
-.method_map com/mojang/minecraft/level/tile/a/c ()Z c
-!method com/mojang/minecraft/level/tile/a/a (Lcom/mojang/minecraft/level/Level;IIILjava/util/Random;)V
-.method_map com/mojang/minecraft/level/tile/a/a (Lcom/mojang/minecraft/level/Level;IIILjava/util/Random;)V a
-!method com/mojang/minecraft/level/tile/a/d ()Lcom/mojang/minecraft/level/liquid/LiquidType;
-.method_map com/mojang/minecraft/level/tile/a/d ()Lcom/mojang/minecraft/level/liquid/LiquidType; d
-!method com/mojang/minecraft/level/tile/a/a (Lcom/mojang/minecraft/level/Level;IIII)V
-.method_map com/mojang/minecraft/level/tile/a/a (Lcom/mojang/minecraft/level/Level;IIII)V a
-!method com/mojang/minecraft/level/tile/a/a (Lcom/mojang/minecraft/level/Level;III)V
-.method_map com/mojang/minecraft/level/tile/a/a (Lcom/mojang/minecraft/level/Level;III)V a
-!method com/mojang/minecraft/level/tile/a/e ()I
-.method_map com/mojang/minecraft/level/tile/a/e ()I e
-!method com/mojang/minecraft/level/tile/a/b (Lcom/mojang/minecraft/level/Level;III)V
-.method_map com/mojang/minecraft/level/tile/a/b (Lcom/mojang/minecraft/level/Level;III)V b
-!method com/mojang/minecraft/level/tile/a/c (Lcom/mojang/minecraft/level/Level;III)V
-.method_map com/mojang/minecraft/level/tile/a/c (Lcom/mojang/minecraft/level/Level;III)V c
-!method com/mojang/minecraft/level/tile/a/f ()I
-.method_map com/mojang/minecraft/level/tile/a/f ()I f
-!method com/mojang/minecraft/level/tile/a/a (Lcom/mojang/minecraft/level/Level;F)V
-.method_map com/mojang/minecraft/level/tile/a/a (Lcom/mojang/minecraft/level/Level;F)V a
-!method com/mojang/minecraft/level/tile/a/g ()Z
-.method_map com/mojang/minecraft/level/tile/a/g ()Z g
-!method com/mojang/minecraft/level/tile/a/a (IIILcom/mojang/minecraft/model/Vector3D;Lcom/mojang/minecraft/model/Vector3D;)Lcom/mojang/minecraft/Vector3DCreator;
-.method_map com/mojang/minecraft/level/tile/a/a (IIILcom/mojang/minecraft/model/Vector3D;Lcom/mojang/minecraft/model/Vector3D;)Lcom/mojang/minecraft/Vector3DCreator; a
-!method com/mojang/minecraft/level/tile/a/a (Lcom/mojang/minecraft/model/Vector3D;)Z
-.method_map com/mojang/minecraft/level/tile/a/a (Lcom/mojang/minecraft/model/Vector3D;)Z a
-!method com/mojang/minecraft/level/tile/a/b (Lcom/mojang/minecraft/model/Vector3D;)Z
-.method_map com/mojang/minecraft/level/tile/a/b (Lcom/mojang/minecraft/model/Vector3D;)Z b
-!method com/mojang/minecraft/level/tile/a/c (Lcom/mojang/minecraft/model/Vector3D;)Z
-.method_map com/mojang/minecraft/level/tile/a/c (Lcom/mojang/minecraft/model/Vector3D;)Z c
+!method com/mojang/minecraft/level/tile/Block/a ()Z
+.method_map com/mojang/minecraft/level/tile/Block/a ()Z isCube
+!method com/mojang/minecraft/level/tile/Block/a (Z)V
+.method_map com/mojang/minecraft/level/tile/Block/a (Z)V setPhysics
+!method com/mojang/minecraft/level/tile/Block/a (FFFFFF)V
+.method_map com/mojang/minecraft/level/tile/Block/a (FFFFFF)V setBounds
+!method com/mojang/minecraft/level/tile/Block/a (I)V
+.method_map com/mojang/minecraft/level/tile/Block/a (I)V setTickDelay
+!method com/mojang/minecraft/level/tile/Block/a (III)Lcom/mojang/minecraft/phys/AABB;
+.method_map com/mojang/minecraft/level/tile/Block/a (III)Lcom/mojang/minecraft/phys/AABB; getCollisionBox
+!method com/mojang/minecraft/level/tile/Block/b ()Z
+.method_map com/mojang/minecraft/level/tile/Block/b ()Z isOpaque
+!method com/mojang/minecraft/level/tile/Block/c ()Z
+.method_map com/mojang/minecraft/level/tile/Block/c ()Z isSolid
+!method com/mojang/minecraft/level/tile/Block/a (Lcom/mojang/minecraft/level/Level;IIILjava/util/Random;)V
+.method_map com/mojang/minecraft/level/tile/Block/a (Lcom/mojang/minecraft/level/Level;IIILjava/util/Random;)V update
+!method com/mojang/minecraft/level/tile/Block/d ()Lcom/mojang/minecraft/level/liquid/LiquidType;
+.method_map com/mojang/minecraft/level/tile/Block/d ()Lcom/mojang/minecraft/level/liquid/LiquidType; getLiquidType
+!method com/mojang/minecraft/level/tile/Block/a (Lcom/mojang/minecraft/level/Level;IIII)V
+.method_map com/mojang/minecraft/level/tile/Block/a (Lcom/mojang/minecraft/level/Level;IIII)V onNeighborChange
+!method com/mojang/minecraft/level/tile/Block/a (Lcom/mojang/minecraft/level/Level;III)V
+.method_map com/mojang/minecraft/level/tile/Block/a (Lcom/mojang/minecraft/level/Level;III)V onPlace
+!method com/mojang/minecraft/level/tile/Block/e ()I
+.method_map com/mojang/minecraft/level/tile/Block/e ()I getTickDelay
+!method com/mojang/minecraft/level/tile/Block/b (Lcom/mojang/minecraft/level/Level;III)V
+.method_map com/mojang/minecraft/level/tile/Block/b (Lcom/mojang/minecraft/level/Level;III)V onAdded
+!method com/mojang/minecraft/level/tile/Block/c (Lcom/mojang/minecraft/level/Level;III)V
+.method_map com/mojang/minecraft/level/tile/Block/c (Lcom/mojang/minecraft/level/Level;III)V onRemoved
+!method com/mojang/minecraft/level/tile/Block/f ()I
+.method_map com/mojang/minecraft/level/tile/Block/f ()I getDropCount
+!method com/mojang/minecraft/level/tile/Block/a (Lcom/mojang/minecraft/level/Level;F)V
+.method_map com/mojang/minecraft/level/tile/Block/a (Lcom/mojang/minecraft/level/Level;F)V dropItems
+!method com/mojang/minecraft/level/tile/Block/g ()Z
+.method_map com/mojang/minecraft/level/tile/Block/g ()Z canExplode
+!method com/mojang/minecraft/level/tile/Block/a (IIILcom/mojang/minecraft/model/Vector3D;Lcom/mojang/minecraft/model/Vector3D;)Lcom/mojang/minecraft/Vector3DCreator;
+.method_map com/mojang/minecraft/level/tile/Block/a (IIILcom/mojang/minecraft/model/Vector3D;Lcom/mojang/minecraft/model/Vector3D;)Lcom/mojang/minecraft/Vector3DCreator; clip
+!method com/mojang/minecraft/level/tile/Block/a (Lcom/mojang/minecraft/model/Vector3D;)Z
+.method_map com/mojang/minecraft/level/tile/Block/a (Lcom/mojang/minecraft/model/Vector3D;)Z xIntersects
+!method com/mojang/minecraft/level/tile/Block/b (Lcom/mojang/minecraft/model/Vector3D;)Z
+.method_map com/mojang/minecraft/level/tile/Block/b (Lcom/mojang/minecraft/model/Vector3D;)Z yIntersects
+!method com/mojang/minecraft/level/tile/Block/c (Lcom/mojang/minecraft/model/Vector3D;)Z
+.method_map com/mojang/minecraft/level/tile/Block/c (Lcom/mojang/minecraft/model/Vector3D;)Z zIntersects
 
-# com/mojang/minecraft/level/tile/b
-!method com/mojang/minecraft/level/tile/b/c ()Z
-.method_map com/mojang/minecraft/level/tile/b/c ()Z c
-!method com/mojang/minecraft/level/tile/b/b ()Z
-.method_map com/mojang/minecraft/level/tile/b/b ()Z b
+# com/mojang/minecraft/level/tile/LeavesBaseBlock
+!method com/mojang/minecraft/level/tile/LeavesBaseBlock/c ()Z
+.method_map com/mojang/minecraft/level/tile/LeavesBaseBlock/c ()Z isSolid
+!method com/mojang/minecraft/level/tile/LeavesBaseBlock/b ()Z
+.method_map com/mojang/minecraft/level/tile/LeavesBaseBlock/b ()Z isOpaque
 
-# com/mojang/minecraft/level/tile/c
+# com/mojang/minecraft/level/tile/DirtBlock
 
-# com/mojang/minecraft/level/tile/d
+# com/mojang/minecraft/level/tile/MetalBlock
 
-# com/mojang/minecraft/level/tile/t
-!method com/mojang/minecraft/level/tile/t/a (Lcom/mojang/minecraft/level/Level;IIILjava/util/Random;)V
-.method_map com/mojang/minecraft/level/tile/t/a (Lcom/mojang/minecraft/level/Level;IIILjava/util/Random;)V a
+# com/mojang/minecraft/level/tile/MushroomBlock
+!method com/mojang/minecraft/level/tile/MushroomBlock/a (Lcom/mojang/minecraft/level/Level;IIILjava/util/Random;)V
+.method_map com/mojang/minecraft/level/tile/MushroomBlock/a (Lcom/mojang/minecraft/level/Level;IIILjava/util/Random;)V update
 
-# com/mojang/minecraft/level/tile/s
-!method com/mojang/minecraft/level/tile/s/f ()I
-.method_map com/mojang/minecraft/level/tile/s/f ()I f
+# com/mojang/minecraft/level/tile/TNTBlock
+!method com/mojang/minecraft/level/tile/TNTBlock/f ()I
+.method_map com/mojang/minecraft/level/tile/TNTBlock/f ()I getDropCount
 
-# com/mojang/minecraft/level/tile/r
-!field com/mojang/minecraft/level/tile/r/ad *
-.field_map com/mojang/minecraft/level/tile/r/ad ad
-!field com/mojang/minecraft/level/tile/r/ae *
-.field_map com/mojang/minecraft/level/tile/r/ae ae
-!field com/mojang/minecraft/level/tile/r/af *
-.field_map com/mojang/minecraft/level/tile/r/af af
+# com/mojang/minecraft/level/tile/LiquidBlock
+!field com/mojang/minecraft/level/tile/LiquidBlock/ad *
+.field_map com/mojang/minecraft/level/tile/LiquidBlock/ad type
+!field com/mojang/minecraft/level/tile/LiquidBlock/ae *
+.field_map com/mojang/minecraft/level/tile/LiquidBlock/ae stillId
+!field com/mojang/minecraft/level/tile/LiquidBlock/af *
+.field_map com/mojang/minecraft/level/tile/LiquidBlock/af movingId
 
-!method com/mojang/minecraft/level/tile/r/a ()Z
-.method_map com/mojang/minecraft/level/tile/r/a ()Z a
-!method com/mojang/minecraft/level/tile/r/a (Lcom/mojang/minecraft/level/Level;III)V
-.method_map com/mojang/minecraft/level/tile/r/a (Lcom/mojang/minecraft/level/Level;III)V a
-!method com/mojang/minecraft/level/tile/r/a (Lcom/mojang/minecraft/level/Level;IIILjava/util/Random;)V
-.method_map com/mojang/minecraft/level/tile/r/a (Lcom/mojang/minecraft/level/Level;IIILjava/util/Random;)V a
-!method com/mojang/minecraft/level/tile/r/d (Lcom/mojang/minecraft/level/Level;III)Z
-.method_map com/mojang/minecraft/level/tile/r/d (Lcom/mojang/minecraft/level/Level;III)Z d
-!method com/mojang/minecraft/level/tile/r/e (Lcom/mojang/minecraft/level/Level;III)Z
-.method_map com/mojang/minecraft/level/tile/r/e (Lcom/mojang/minecraft/level/Level;III)Z e
-!method com/mojang/minecraft/level/tile/r/a (III)Lcom/mojang/minecraft/phys/AABB;
-.method_map com/mojang/minecraft/level/tile/r/a (III)Lcom/mojang/minecraft/phys/AABB; a
-!method com/mojang/minecraft/level/tile/r/b ()Z
-.method_map com/mojang/minecraft/level/tile/r/b ()Z b
-!method com/mojang/minecraft/level/tile/r/c ()Z
-.method_map com/mojang/minecraft/level/tile/r/c ()Z c
-!method com/mojang/minecraft/level/tile/r/d ()Lcom/mojang/minecraft/level/liquid/LiquidType;
-.method_map com/mojang/minecraft/level/tile/r/d ()Lcom/mojang/minecraft/level/liquid/LiquidType; d
-!method com/mojang/minecraft/level/tile/r/a (Lcom/mojang/minecraft/level/Level;IIII)V
-.method_map com/mojang/minecraft/level/tile/r/a (Lcom/mojang/minecraft/level/Level;IIII)V a
-!method com/mojang/minecraft/level/tile/r/e ()I
-.method_map com/mojang/minecraft/level/tile/r/e ()I e
-!method com/mojang/minecraft/level/tile/r/a (Lcom/mojang/minecraft/level/Level;F)V
-.method_map com/mojang/minecraft/level/tile/r/a (Lcom/mojang/minecraft/level/Level;F)V a
-!method com/mojang/minecraft/level/tile/r/f ()I
-.method_map com/mojang/minecraft/level/tile/r/f ()I f
+!method com/mojang/minecraft/level/tile/LiquidBlock/a ()Z
+.method_map com/mojang/minecraft/level/tile/LiquidBlock/a ()Z isCube
+!method com/mojang/minecraft/level/tile/LiquidBlock/a (Lcom/mojang/minecraft/level/Level;III)V
+.method_map com/mojang/minecraft/level/tile/LiquidBlock/a (Lcom/mojang/minecraft/level/Level;III)V onPlace
+!method com/mojang/minecraft/level/tile/LiquidBlock/a (Lcom/mojang/minecraft/level/Level;IIILjava/util/Random;)V
+.method_map com/mojang/minecraft/level/tile/LiquidBlock/a (Lcom/mojang/minecraft/level/Level;IIILjava/util/Random;)V update
+!method com/mojang/minecraft/level/tile/LiquidBlock/d (Lcom/mojang/minecraft/level/Level;III)Z
+.method_map com/mojang/minecraft/level/tile/LiquidBlock/d (Lcom/mojang/minecraft/level/Level;III)Z canFlow
+!method com/mojang/minecraft/level/tile/LiquidBlock/e (Lcom/mojang/minecraft/level/Level;III)Z
+.method_map com/mojang/minecraft/level/tile/LiquidBlock/e (Lcom/mojang/minecraft/level/Level;III)Z flow
+!method com/mojang/minecraft/level/tile/LiquidBlock/a (III)Lcom/mojang/minecraft/phys/AABB;
+.method_map com/mojang/minecraft/level/tile/LiquidBlock/a (III)Lcom/mojang/minecraft/phys/AABB; getSelectionBox
+!method com/mojang/minecraft/level/tile/LiquidBlock/b ()Z
+.method_map com/mojang/minecraft/level/tile/LiquidBlock/b ()Z isOpque
+!method com/mojang/minecraft/level/tile/LiquidBlock/c ()Z
+.method_map com/mojang/minecraft/level/tile/LiquidBlock/c ()Z isSolid
+!method com/mojang/minecraft/level/tile/LiquidBlock/d ()Lcom/mojang/minecraft/level/liquid/LiquidType;
+.method_map com/mojang/minecraft/level/tile/LiquidBlock/d ()Lcom/mojang/minecraft/level/liquid/LiquidType; getLiquidType
+!method com/mojang/minecraft/level/tile/LiquidBlock/a (Lcom/mojang/minecraft/level/Level;IIII)V
+.method_map com/mojang/minecraft/level/tile/LiquidBlock/a (Lcom/mojang/minecraft/level/Level;IIII)V onNeighborChange
+!method com/mojang/minecraft/level/tile/LiquidBlock/e ()I
+.method_map com/mojang/minecraft/level/tile/LiquidBlock/e ()I getTickDelay
+!method com/mojang/minecraft/level/tile/LiquidBlock/a (Lcom/mojang/minecraft/level/Level;F)V
+.method_map com/mojang/minecraft/level/tile/LiquidBlock/a (Lcom/mojang/minecraft/level/Level;F)V dropItems
+!method com/mojang/minecraft/level/tile/LiquidBlock/f ()I
+.method_map com/mojang/minecraft/level/tile/LiquidBlock/f ()I getDropCount
 
-# com/mojang/minecraft/level/tile/q
-!method com/mojang/minecraft/level/tile/q/c ()Z
-.method_map com/mojang/minecraft/level/tile/q/c ()Z c
-!method com/mojang/minecraft/level/tile/q/b ()Z
-.method_map com/mojang/minecraft/level/tile/q/b ()Z b
+# com/mojang/minecraft/level/tile/GlassBlock
+!method com/mojang/minecraft/level/tile/GlassBlock/c ()Z
+.method_map com/mojang/minecraft/level/tile/GlassBlock/c ()Z isSolid
+!method com/mojang/minecraft/level/tile/GlassBlock/b ()Z
+.method_map com/mojang/minecraft/level/tile/GlassBlock/b ()Z isOpaque
 
-# com/mojang/minecraft/level/tile/p
-!method com/mojang/minecraft/level/tile/p/f ()I
-.method_map com/mojang/minecraft/level/tile/p/f ()I f
+# com/mojang/minecraft/level/tile/LeavesBlock
+!method com/mojang/minecraft/level/tile/LeavesBlock/f ()I
+.method_map com/mojang/minecraft/level/tile/LeavesBlock/f ()I getDropCount
 
-# com/mojang/minecraft/level/tile/o
-!method com/mojang/minecraft/level/tile/o/b (Lcom/mojang/minecraft/level/Level;III)V
-.method_map com/mojang/minecraft/level/tile/o/b (Lcom/mojang/minecraft/level/Level;III)V b
-!method com/mojang/minecraft/level/tile/o/c (Lcom/mojang/minecraft/level/Level;III)V
-.method_map com/mojang/minecraft/level/tile/o/c (Lcom/mojang/minecraft/level/Level;III)V c
+# com/mojang/minecraft/level/tile/SpongeBlock
+!method com/mojang/minecraft/level/tile/SpongeBlock/b (Lcom/mojang/minecraft/level/Level;III)V
+.method_map com/mojang/minecraft/level/tile/SpongeBlock/b (Lcom/mojang/minecraft/level/Level;III)V onAdded
+!method com/mojang/minecraft/level/tile/SpongeBlock/c (Lcom/mojang/minecraft/level/Level;III)V
+.method_map com/mojang/minecraft/level/tile/SpongeBlock/c (Lcom/mojang/minecraft/level/Level;III)V onRemoved
 
-# com/mojang/minecraft/level/tile/n
-!method com/mojang/minecraft/level/tile/n/f ()I
-.method_map com/mojang/minecraft/level/tile/n/f ()I f
+# com/mojang/minecraft/level/tile/OreBlock
+!method com/mojang/minecraft/level/tile/OreBlock/f ()I
+.method_map com/mojang/minecraft/level/tile/OreBlock/f ()I getDropCount
 
-# com/mojang/minecraft/level/tile/m
-!method com/mojang/minecraft/level/tile/m/a (Lcom/mojang/minecraft/level/Level;IIILjava/util/Random;)V
-.method_map com/mojang/minecraft/level/tile/m/a (Lcom/mojang/minecraft/level/Level;IIILjava/util/Random;)V a
-!method com/mojang/minecraft/level/tile/m/a (III)Lcom/mojang/minecraft/phys/AABB;
-.method_map com/mojang/minecraft/level/tile/m/a (III)Lcom/mojang/minecraft/phys/AABB; a
-!method com/mojang/minecraft/level/tile/m/b ()Z
-.method_map com/mojang/minecraft/level/tile/m/b ()Z b
-!method com/mojang/minecraft/level/tile/m/c ()Z
-.method_map com/mojang/minecraft/level/tile/m/c ()Z c
-!method com/mojang/minecraft/level/tile/m/a ()Z
-.method_map com/mojang/minecraft/level/tile/m/a ()Z a
+# com/mojang/minecraft/level/tile/FlowerBlock
+!method com/mojang/minecraft/level/tile/FlowerBlock/a (Lcom/mojang/minecraft/level/Level;IIILjava/util/Random;)V
+.method_map com/mojang/minecraft/level/tile/FlowerBlock/a (Lcom/mojang/minecraft/level/Level;IIILjava/util/Random;)V update
+!method com/mojang/minecraft/level/tile/FlowerBlock/a (III)Lcom/mojang/minecraft/phys/AABB;
+.method_map com/mojang/minecraft/level/tile/FlowerBlock/a (III)Lcom/mojang/minecraft/phys/AABB; getSelectionBox
+!method com/mojang/minecraft/level/tile/FlowerBlock/b ()Z
+.method_map com/mojang/minecraft/level/tile/FlowerBlock/b ()Z isOpaque
+!method com/mojang/minecraft/level/tile/FlowerBlock/c ()Z
+.method_map com/mojang/minecraft/level/tile/FlowerBlock/c ()Z isSolid
+!method com/mojang/minecraft/level/tile/FlowerBlock/a ()Z
+.method_map com/mojang/minecraft/level/tile/FlowerBlock/a ()Z isCube
 
-# com/mojang/minecraft/level/tile/l
-!method com/mojang/minecraft/level/tile/l/a (Lcom/mojang/minecraft/level/Level;IIILjava/util/Random;)V
-.method_map com/mojang/minecraft/level/tile/l/a (Lcom/mojang/minecraft/level/Level;IIILjava/util/Random;)V a
+# com/mojang/minecraft/level/tile/GrassBlock
+!method com/mojang/minecraft/level/tile/GrassBlock/a (Lcom/mojang/minecraft/level/Level;IIILjava/util/Random;)V
+.method_map com/mojang/minecraft/level/tile/GrassBlock/a (Lcom/mojang/minecraft/level/Level;IIILjava/util/Random;)V update
 
 # com/mojang/minecraft/level/generator/noise/CombinedNoise
 !field com/mojang/minecraft/level/generator/noise/CombinedNoise/a *
@@ -373,18 +373,18 @@
 !method com/mojang/minecraft/level/generator/noise/CombinedNoise/a (DD)D
 .method_map com/mojang/minecraft/level/generator/noise/CombinedNoise/a (DD)D compute
 
-# com/mojang/minecraft/level/tile/k
-!field com/mojang/minecraft/level/tile/k/ad *
-.field_map com/mojang/minecraft/level/tile/k/ad ad
+# com/mojang/minecraft/level/tile/SlabBlock
+!field com/mojang/minecraft/level/tile/SlabBlock/ad *
+.field_map com/mojang/minecraft/level/tile/SlabBlock/ad doubleSlab
 
-!method com/mojang/minecraft/level/tile/k/c ()Z
-.method_map com/mojang/minecraft/level/tile/k/c ()Z c
-!method com/mojang/minecraft/level/tile/k/a (Lcom/mojang/minecraft/level/Level;IIII)V
-.method_map com/mojang/minecraft/level/tile/k/a (Lcom/mojang/minecraft/level/Level;IIII)V a
-!method com/mojang/minecraft/level/tile/k/b (Lcom/mojang/minecraft/level/Level;III)V
-.method_map com/mojang/minecraft/level/tile/k/b (Lcom/mojang/minecraft/level/Level;III)V b
-!method com/mojang/minecraft/level/tile/k/a ()Z
-.method_map com/mojang/minecraft/level/tile/k/a ()Z a
+!method com/mojang/minecraft/level/tile/SlabBlock/c ()Z
+.method_map com/mojang/minecraft/level/tile/SlabBlock/c ()Z isSolid
+!method com/mojang/minecraft/level/tile/SlabBlock/a (Lcom/mojang/minecraft/level/Level;IIII)V
+.method_map com/mojang/minecraft/level/tile/SlabBlock/a (Lcom/mojang/minecraft/level/Level;IIII)V onNeighborChange
+!method com/mojang/minecraft/level/tile/SlabBlock/b (Lcom/mojang/minecraft/level/Level;III)V
+.method_map com/mojang/minecraft/level/tile/SlabBlock/b (Lcom/mojang/minecraft/level/Level;III)V onAdded
+!method com/mojang/minecraft/level/tile/SlabBlock/a ()Z
+.method_map com/mojang/minecraft/level/tile/SlabBlock/a ()Z isCube
 
 # com/mojang/minecraft/server/NetworkManager
 !field com/mojang/minecraft/server/NetworkManager/j *
@@ -451,15 +451,15 @@
 !method com/mojang/minecraft/server/NetworkManager/a (Ljava/lang/Exception;)V
 .method_map com/mojang/minecraft/server/NetworkManager/a (Ljava/lang/Exception;)V a
 
-# com/mojang/minecraft/level/tile/j
-!method com/mojang/minecraft/level/tile/j/f ()I
-.method_map com/mojang/minecraft/level/tile/j/f ()I f
+# com/mojang/minecraft/level/tile/WoodBlock
+!method com/mojang/minecraft/level/tile/WoodBlock/f ()I
+.method_map com/mojang/minecraft/level/tile/WoodBlock/f ()I getDropCount
 
-# com/mojang/minecraft/level/tile/i
-!method com/mojang/minecraft/level/tile/i/a (Lcom/mojang/minecraft/level/Level;IIILjava/util/Random;)V
-.method_map com/mojang/minecraft/level/tile/i/a (Lcom/mojang/minecraft/level/Level;IIILjava/util/Random;)V a
-!method com/mojang/minecraft/level/tile/i/a (Lcom/mojang/minecraft/level/Level;IIII)V
-.method_map com/mojang/minecraft/level/tile/i/a (Lcom/mojang/minecraft/level/Level;IIII)V a
+# com/mojang/minecraft/level/tile/StillLiquidBlock
+!method com/mojang/minecraft/level/tile/StillLiquidBlock/a (Lcom/mojang/minecraft/level/Level;IIILjava/util/Random;)V
+.method_map com/mojang/minecraft/level/tile/StillLiquidBlock/a (Lcom/mojang/minecraft/level/Level;IIILjava/util/Random;)V update
+!method com/mojang/minecraft/level/tile/StillLiquidBlock/a (Lcom/mojang/minecraft/level/Level;IIII)V
+.method_map com/mojang/minecraft/level/tile/StillLiquidBlock/a (Lcom/mojang/minecraft/level/Level;IIII)V onNeighborChange
 
 # com/mojang/minecraft/level/liquid/LiquidType
 !field com/mojang/minecraft/level/liquid/LiquidType/d *
@@ -472,23 +472,23 @@
 .field_map com/mojang/minecraft/level/liquid/LiquidType/c LAVA
 
 
-# com/mojang/minecraft/level/tile/h
-!method com/mojang/minecraft/level/tile/h/a (Lcom/mojang/minecraft/level/Level;IIILjava/util/Random;)V
-.method_map com/mojang/minecraft/level/tile/h/a (Lcom/mojang/minecraft/level/Level;IIILjava/util/Random;)V a
+# com/mojang/minecraft/level/tile/SaplingBlock
+!method com/mojang/minecraft/level/tile/SaplingBlock/a (Lcom/mojang/minecraft/level/Level;IIILjava/util/Random;)V
+.method_map com/mojang/minecraft/level/tile/SaplingBlock/a (Lcom/mojang/minecraft/level/Level;IIILjava/util/Random;)V update
 
-# com/mojang/minecraft/level/tile/g
-!method com/mojang/minecraft/level/tile/g/f ()I
-.method_map com/mojang/minecraft/level/tile/g/f ()I f
+# com/mojang/minecraft/level/tile/BookshelfBlock
+!method com/mojang/minecraft/level/tile/BookshelfBlock/f ()I
+.method_map com/mojang/minecraft/level/tile/BookshelfBlock/f ()I getDropCount
 
-# com/mojang/minecraft/level/tile/f
-!method com/mojang/minecraft/level/tile/f/a (Lcom/mojang/minecraft/level/Level;III)V
-.method_map com/mojang/minecraft/level/tile/f/a (Lcom/mojang/minecraft/level/Level;III)V a
-!method com/mojang/minecraft/level/tile/f/a (Lcom/mojang/minecraft/level/Level;IIII)V
-.method_map com/mojang/minecraft/level/tile/f/a (Lcom/mojang/minecraft/level/Level;IIII)V a
-!method com/mojang/minecraft/level/tile/f/d (Lcom/mojang/minecraft/level/Level;III)V
-.method_map com/mojang/minecraft/level/tile/f/d (Lcom/mojang/minecraft/level/Level;III)V d
+# com/mojang/minecraft/level/tile/SandBlock
+!method com/mojang/minecraft/level/tile/SandBlock/a (Lcom/mojang/minecraft/level/Level;III)V
+.method_map com/mojang/minecraft/level/tile/SandBlock/a (Lcom/mojang/minecraft/level/Level;III)V onPlace
+!method com/mojang/minecraft/level/tile/SandBlock/a (Lcom/mojang/minecraft/level/Level;IIII)V
+.method_map com/mojang/minecraft/level/tile/SandBlock/a (Lcom/mojang/minecraft/level/Level;IIII)V onNeighborChange
+!method com/mojang/minecraft/level/tile/SandBlock/d (Lcom/mojang/minecraft/level/Level;III)V
+.method_map com/mojang/minecraft/level/tile/SandBlock/d (Lcom/mojang/minecraft/level/Level;III)V fall
 
-# com/mojang/minecraft/level/tile/e
+# com/mojang/minecraft/level/tile/StoneBlock
 
 # com/mojang/minecraft/render/Frustrum
 !field com/mojang/minecraft/render/Frustrum/a *
